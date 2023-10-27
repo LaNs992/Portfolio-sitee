@@ -1,0 +1,7 @@
+.footer {
+  padding: 40px 0 30px;
+}
+
+.footer__wrapper {
+  row-gap: 20px;
+}
